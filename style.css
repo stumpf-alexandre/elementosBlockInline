@@ -1,0 +1,12 @@
+.block {
+  background-color: aqua;
+}
+
+.inline {
+  background-color: aquamarine;
+}
+
+.inline-block {
+  display: inline-block;
+  background-color: yellow;
+}
